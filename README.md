@@ -5,5 +5,4 @@ This is the pinteresting sample application for
 
 by [Mattangriffel](http://mattngriffel.com)
 
-helped by [Benjamin Nussbaumer]
-
+helped by [Benjamin Nussbaumer](https://www.facebook.com/benjamin.nussbaumer.35)
